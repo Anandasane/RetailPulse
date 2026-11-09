@@ -1,0 +1,11 @@
+Metric,Value
+Original Raw Records,541909.0
+Duplicate Records Removed,5268.0
+Deduplicated Records,536641.0
+Clean Sales,524878.0
+Returns,1336.0
+Cancelled Transactions,9251.0
+Rejected Records,1176.0
+Total Classified Records,536641.0
+Reconciliation Difference,0.0
+Total Sales Revenue,10642110.8

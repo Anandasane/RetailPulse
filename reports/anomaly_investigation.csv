@@ -1,0 +1,6 @@
+Investigation,Affected_Rows
+Cancelled AND Negative Quantity,9288
+Cancelled AND Invalid Price,0
+Negative Quantity AND Invalid Price,1336
+Missing Customer AND Cancelled,383
+Duplicate Rows Associated With Cancellations,69

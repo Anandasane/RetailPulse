@@ -1,0 +1,22 @@
+Metric,Value
+Original Raw Records,541909
+Duplicate Records Removed,5268
+Deduplicated Raw Records,536641
+Expected Clean Sales,524878
+Actual Clean Sales,524878
+Expected Returns,1336
+Actual Returns,1336
+Expected Cancelled,9251
+Actual Cancelled,9251
+Expected Rejected,1176
+Actual Rejected,1176
+Classified Records,536641
+Reconciliation Difference,0
+Negative Quantities in Clean Sales,0
+Invalid Prices in Clean Sales,0
+Cancelled Invoices in Clean Sales,0
+Returns with Invalid Prices,1336
+Clean Sales Match,PASS
+Returns Match,PASS
+Cancelled Match,PASS
+Rejected Match,PASS
