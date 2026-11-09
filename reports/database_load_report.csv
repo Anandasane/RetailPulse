@@ -1,0 +1,5 @@
+table_name,expected_rows,actual_rows,status
+fact_sales,524878,524878,PASS
+fact_returns,1336,1336,PASS
+fact_cancelled,9251,9251,PASS
+rejected_records,1176,1176,PASS

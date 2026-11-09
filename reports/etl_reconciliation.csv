@@ -15,8 +15,11 @@ Reconciliation Difference,0
 Negative Quantities in Clean Sales,0
 Invalid Prices in Clean Sales,0
 Cancelled Invoices in Clean Sales,0
+Missing Invoice Numbers in Clean Sales,0
 Returns with Invalid Prices,1336
 Clean Sales Match,PASS
 Returns Match,PASS
 Cancelled Match,PASS
 Rejected Match,PASS
+Clean Sales Quality,PASS
+Classification Reconciliation,PASS
